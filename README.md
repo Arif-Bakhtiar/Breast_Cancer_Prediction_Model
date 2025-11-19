@@ -103,5 +103,9 @@ All models achieved strong results, with accuracies ranging from **96% to 98%**.
 **Logistic Regression** and **SVM (RBF)** achieved the best overall results with identical accuracy and balanced classification performance.
 
 ---
+##  Author
+
+M. M. Arif Bakhtiar
+mmarifbakhtiar.ece.ruet@gmail.com
 
 
